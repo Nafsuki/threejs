@@ -56,7 +56,7 @@ function App() {
 					<OrbitControls autoRotate />
 				</Suspense>
 			</Canvas>
-			<h1>Threejs Fiber</h1>
+			<h1>Threejs Demo</h1>
 		</div>
 	);
 }
